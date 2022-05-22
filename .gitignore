@@ -1,7 +1,4 @@
-# Default ignored files
 __pycache__
-db.sqlite3
-.DS_Store
-.env
 .idea
-.pytest_cache
+.env
+db.sqlite3
